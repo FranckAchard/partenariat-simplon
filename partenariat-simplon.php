@@ -10,7 +10,7 @@ License: GPL2
 */
 
 function PartenariatSimplon() {
-	return '<p><i>La publication de cet article est possible grâce à mon super partenaire <a href="https://simplon.co/" target=_blank>simplon.co</a> - une entreprise de
+	return '<p><i>La publication de cet article est possible grâce à mon super partenaire <a href="https://simplon.co/" target="_blank">simplon.co</a> - une entreprise de
     l’économie sociale et solidaire et un réseau de « fabriques » (écoles) qui propose
     des formations GRATUITES pour devenir développeur web.</i></p>';
 }
